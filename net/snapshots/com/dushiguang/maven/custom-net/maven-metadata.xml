@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.dushiguang.maven</groupId>
+  <artifactId>custom-net</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190122072759</lastUpdated>
+  </versioning>
+</metadata>
