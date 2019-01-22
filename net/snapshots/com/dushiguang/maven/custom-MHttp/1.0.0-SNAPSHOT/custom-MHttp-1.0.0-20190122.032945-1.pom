@@ -29,9 +29,9 @@
   </scm>
   <dependencies>
     <dependency>
-      <groupId>com.vise.xiaoyaoyou</groupId>
+      <groupId>XSnow</groupId>
       <artifactId>xsnow</artifactId>
-      <version>2.1.9</version>
+      <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
