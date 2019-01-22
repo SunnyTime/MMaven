@@ -30,7 +30,7 @@
   <dependencies>
     <dependency>
       <groupId>XSnow</groupId>
-      <artifactId>xsnow</artifactId>
+      <artifactId>custom-xsnow</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
