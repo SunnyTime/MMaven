@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.dushiguang.maven</groupId>
-  <artifactId>net</artifactId>
+  <artifactId>custom-mxsnow</artifactId>
   <versioning>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190408090653</lastUpdated>
+    <lastUpdated>20190408091104</lastUpdated>
   </versioning>
 </metadata>
