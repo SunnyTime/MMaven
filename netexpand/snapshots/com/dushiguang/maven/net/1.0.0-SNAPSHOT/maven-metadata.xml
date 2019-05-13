@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.dushiguang.maven</groupId>
+  <artifactId>net</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190513.062614</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190513062614</lastUpdated>
+  </versioning>
+</metadata>
